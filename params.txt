@@ -1,0 +1,3 @@
+masterpiece, best quality,purple hair,,black eyes,{{{pink hoodie}}},crop top hoodie,{{{brown shorts}}},full body,solo,1girl, simple background, white sneakers,medium hair, 
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name,nsfw,
+Steps: 28, Sampler: Euler a, CFG scale: 9, Seed: -1, Size: 512x960, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

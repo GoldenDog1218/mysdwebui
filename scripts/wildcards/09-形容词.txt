@@ -1,0 +1,25 @@
+金发|Blond
+黑色|black
+白色|white
+红色|red
+金色|golden
+黄色|yellow
+蓝色|blue
+黑暗的|dark
+银色|silver
+绿色|green
+橘色|orange
+紫色|purple
+灰色|grey
+粉色|pink
+透明|transparent
+棕色|brown
+小|small
+中|medium
+大|big
+巨|huge
+无|none
+短|short
+中|middle
+长|long
+很长|very long

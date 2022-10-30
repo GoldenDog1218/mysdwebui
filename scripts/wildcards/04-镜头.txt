@@ -1,0 +1,17 @@
+看侧边|looking to the side,
+不看镜头|looking away,
+回头看|looking back,
+往下看|looking down
+往上看|looking up
+遥望|looking afar
+背后视点|from behind,
+低位视点|from below,
+pp视点|facing away,
+pp焦点|ass focus,
+单人焦点|solo focus,
+模糊背景|blurry background,
+简单背景|simple background
+颜色+背景|想要的颜色 background
+自拍|selfie
+分割画面|split screen
+全身自拍|full body selfie

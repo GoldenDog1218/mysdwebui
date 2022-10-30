@@ -1,0 +1,116 @@
+校园制服|school uniform,
+领带制服|collared shirt,
+水手服|serafuku,
+比基尼|bikini,
+系绳比基尼|string bikini,
+微小比基尼|micro bikini,
+泳装|swimsuit,
+运动服|sportswear,
+排球服|volleyball uniform,
+旗袍|china dress,
+水手服|serafuku,
+无肩带|strapless,
+无袖|sleeveless,
+蕾丝边饰|lace trim,
+荷叶边连身裙|frilled dress
+荷叶边袖子|frilled sleeves,
+荷叶边裙|frilled skirt,
+荷叶边衬衫|frilled shirt,
+荷叶边比基尼|frilled bikini,
+荷叶边围裙|frilled apron,
+荷叶边褶边衬衫领|frilled shirt collar,
+毛皮边饰夹克|furtrimmed jacket,
+毛皮边饰大衣|furtrimmed coat,
+死库水|School Swimwear
+哥德|Gothic
+和服|japanese clothes
+军装|uniform
+洛丽塔|lolita fashion
+透视装|see-through
+军装|military uniform,
+洋装|dress
+蕾丝边连身裙|lacetrimmed dress,
+无肩带紧身衣|strapless leotard,
+紧身衣|leotard,
+高叉紧身衣|thong leotard,
+丁字紧身衣|lacetrimmed panties,
+衣服下的紧身衣|leotard under clothes,
+紧身衣|taut clothes,
+紧身衬衫|taut shirt,
+连身丝袜|bodystocking,
+紧身衣裤|bodysuit,
+背心|tank top,
+连身裙|dress,
+睡袍|nightgown,
+大衣|coat,
+皮甲|leather armor,
+露肩连身裙|off-shoulder dress
+露肩上衣|off-shoulder shirt
+露肩毛衣|off-shoulder sweater
+露肩外套|off-shoulder jacket
+穿比基尼+外套露肩|off-shoulder bikini
+帽子|hat
+遮阳帽|sun hat
+贝雷帽|beret
+oversize clothes
+蕾丝边手套|lacetrimmed gloves,
+裤袜|pantyhose,
+蕾丝边过膝袜|lacetrimmed legwear,
+网裤袜|fishnet pantyhose,
+过膝袜|thighhighs,
+袜子|socks,
+手套|gloves,
+寸部手套|elbow gloves,
+手腕袖口|wrist cuffs,
+无指手套|fingerless gloves,
+高跟鞋|high heels,
+靴子|boots,
+长筒靴|thigh boots,
+膝下袜|below knee socks
+吊袜带|legwear garter
+皮手套|leather gloves
+皮靴|leather boots
+白色鞋|white footwear_footwear
+指甲 (可指定颜色)|颜色 nails
+内裤|panties,
+蝴蝶结内裤|bow panties,
+拉下内裤|panty pull,
+无内裤(真空)|no panties,
+连裤袜下的内裤|panties under pantyhose,
+内衣|underwear,
+胸罩|bra,
+丁字裤|thong,
+蕾丝边内裤|lacetrimmed panties,
+蕾丝边胸罩|lacetrimmed bra,
+荷叶边内裤|frilled panties,
+荷叶边胸罩|frilled bra,
+动物耳|animal ears,
+尾巴|tail,
+淫纹|pubic tattoo,
+兔尾|rabbit tail,
+吊带|suspenders,
+围巾|scarf,
+围裙|apron,
+女仆头饰|maid headdress,
+腰带|belt,
+大腿带|thigh strap,
+面纱|veil,
+股间帘|pelvic curtain,
+项圈|choker
+眼罩|blindfold
+蕾丝|lace,
+荷叶边|frills,
+毛皮边饰|fur trim,
+珠宝|jewelry  ,
+口罩|face mask
+耳环|earrings
+手环|bracelet
+脚环|anklet
+手机|cell phone
+婴儿奶嘴|baby pacifier
+鼻环|Nose Ring
+唇环|lip ring
+黑框眼镜|Black-rimmed glasses
+皮制腰带|leather belt
+书本|book
+披风|cloak

@@ -1,0 +1,15 @@
+带皮毛的机甲旗袍|[chinese dress:mecha:fur_trim:0.4:0.3],
+全身|full_body,
+个人|solo,
+1个女孩|1girl,
+1个男孩|1boy,
+黑发|black_hair
+简单背景|simple_background, 
+白色背景|white_background, 
+杰作|masterpiece
+高分辨率|highres
+高质量唯美女性人体|masterpiece,highres
+背景艺术（高质量环境艺术图）|background_art
+娇艳美丽|extremely delicate and beautiful
+细节美丽|extremely detalied and beautiful
+复杂细节|intricate detail

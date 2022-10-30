@@ -1,0 +1,240 @@
+媚魔|Succubus,
+人类|Human,
+恶魔|devil,
+精灵/妖精|Elf/Fairy,
+黑暗精灵|Dark Elf,
+半精灵|Halfelf,
+天使|
+幽灵/鬼魂|Ghost
+妖精|Fairy,
+无头骑士|Durahan,
+兽人|Orc,
+兽人（？）|Ork,
+人鱼|Mermaid,
+狼人|Werewolf,
+哥布尔|Goblin,
+吸血鬼|vampire,
+史莱姆|slime,
+犄角|horns,
+尖耳朵|pointy ears,
+人外|monster girl  ,
+兽耳|Beast ears,
+猫耳|cat ears,
+狸猫|tanuki,
+浣熊|racoon,
+翅膀|wings
+羽毛翅膀|feathers
+机器人|robot,mecha
+狐娘|fox girl
+神官|clergy,
+舞娘|dancer,
+骑士|knight,
+娼妇|prostitute
+强盗|bandit
+受付娘|reception girl
+农妇|countrywoman
+战士|Warrior
+狂战士|Berserker
+野蛮人|Barbarian
+雇佣兵|Mercenary
+骑兵|Rider
+龙骑士|Dragoon
+圣骑士|Paladin
+格斗选手|Grappler
+弓箭手|Archer
+十字弓手|Crossbowman
+海盗|Pirate
+盗贼|Thief
+暗杀者|Assassin
+游侠|Ranger
+巫师|Witch
+法师|Mage
+巫婆|Sorceress
+牧师|Cleric
+招唤师|Summoner
+诗人|Bard
+舞娘|Dancer
+商人|Merchant
+兔女郎|playboy bunny,
+拉拉队长|cheerleader,
+女仆|maid,
+护士|nurse,
+修女|nun,
+殭尸|Jiangshi
+幼なじみ|Childhood Friend
+青梅竹马|Childhood Friend
+大小姐|Miss
+女忍者|Kunoichi (Ninja Girl)
+军服|Army Uniform
+警察/刑警|Police/Detective
+殭尸|Zombie
+外国人|Foreigner
+学生|Student
+工人|Bluecollar Worker
+已婚者|Married person
+义姐|Older Stepsister
+巫女|miko
+魔法少女|magical girl
+人類|Human,
+精靈/妖精|Elf/Fairy,
+黑暗精靈|Dark Elf,
+半精靈|Halfelf,
+天使|Angel,
+幽靈/鬼魂|Ghost
+妖精|Fairy,
+無頭騎士|Durahan,
+獸人|Orc,
+人魚|Mermaid,
+狼人|Werewolf,
+哥布林|Goblin,
+吸血鬼|vampire,
+史萊姆|slime,
+机器人|robot,mecha
+狐娘|fox girl
+殭屍|Zombie
+非人(隨機)|monster girl  ,
+外國人|Foreigner
+接待女孩|reception girl
+農婦|countrywoman
+巫婆|Sorceress
+詩人|Bard
+舞孃|Dancer
+商人|Merchant
+兔女郎|playboy bunny,
+啦啦隊長|cheerleader,
+女僕|maid,
+護士|nurse,
+修女|nun,
+大小姐|Miss
+巫女|miko
+警察/刑警|Police/Detective
+學生|Student
+工人|Bluecollar Worker
+OL|Office lady
+哥哥|Older Brother
+反派大小姐|Villainous Daughter
+阿拉伯|Arab
+医生|Doctor
+妹妹|Younger Sister
+知识分子|Intelligent
+女服务生|Waitress
+围裙|Apron
+精灵/妖精|Elf/Fairy
+王子/王子系|Prince
+青梅竹马|Childhood Friend
+叔父/义父|Uncle/Fatherinlaw
+大小姐|Upperclass Girl
+袭受|Aggressive Bottom
+弟弟|Younger Brother
+伪娘|Otoko no Ko
+姐姐|Oneesan/Older Girl/Older Sister
+老头/大叔|Middleaged Man
+大叔受|Older Man Top
+帝王攻|Arrogant Top
+老子|Arrogant
+女教师|Female Teacher
+吊带袜|Garter
+外国人|Foreigner
+学生|Student
+工人|Bluecollar Worker
+已婚者|Married person
+义姐|Older Stepsister
+拟人化|Anthropomorphism
+义母|Motherinlaw
+义妹|Younger Stepsister
+浴衣/和服|Kimono/Japanese Clothes
+辣妹|Gyaru
+教师|Teacher
+冷面受|Cool Bottom
+高冷攻|Cool Top
+袜子|Socks
+女忍者|Kunoichi (Ninja Girl)
+军服|Army Uniform
+警察/刑警|Police/Detective
+艺人/偶像/模特儿|Entertainer/Idol/Model
+健气受|Diligent Bottom
+野兽/兽化|Kemono/Animalization/Transfur
+Cosplay|Cosplay
+哥特萝莉|Gothic Lolita
+魅魔|Succubus/Incubus
+诱受|Enthusiastic Bottom
+上班族|Office Worker
+修女|Sister/Nun
+内衣|Underwear
+管家/执事|Butler
+亲姊姊|Real Elder Sister
+姐妹|Sisters
+社长|Company President
+熟女|Mature Woman/MILF
+主从|Master and Servant
+女医生|Female Doctor
+女王/公主|Queen/Princess
+上司|Boss
+少女|Girl
+少年|Boy
+女装|Crossdressing as a Woman
+正太|Shota
+人外娘/魔物娘|Nonhuman/Monster Girl
+西装|Suit
+死库水|School Swimwear
+丝袜|Stockings
+运动短裤|Leggings
+青年|Middleaged Man
+制服|Uniform
+水手服|Sailorstyle Uniform
+战士|Warrior
+前辈/后辈|Junior/Senior (at work, school, etc)
+总受|Always Bottom
+总攻|Always Top
+殭尸|Zombie
+体育社团系/运动选手|Sporty/Athlete
+体操服|PE Uniform
+父亲|Father
+强气受|Power Bottom
+强气攻|Strong Willed Top
+傲娇|Tsundere
+天使/恶魔|Angel/Demon
+天然|Ditzy
+同学/同事|Classmate/Colleague
+年长|Senior
+年下攻|Younger Top
+护士|Nurse
+过膝袜|Knee Socks
+第三性|Shemale
+异性恋|Heterosexual/Nonke
+双性恋|Bisexual
+兔女郎|Bunny Girl
+母亲|Mother
+内裤|Pants
+婊子|Bitch/Slut
+人妻|Married Woman
+双胞胎|Twins
+娃娃脸|Chubby/Fat
+不良/混混|Delinquent/Hoodlum
+运动短裤|Bloomers/Buruma
+废柴攻|Weak Willed Top
+变身女主角|Transforming Girl
+男性自称少女/仆娘|Boyish Girl
+保健护士|Health doctor
+牛郎|Host
+拘束服|Bondage
+魔法少女|Magical Girl
+魔法师/魔女|Magician / Witch
+巫女|Shrine Maiden
+泳装|Swimwear
+迷你裙|Short Skirt
+寡妇|Widow
+女儿|Daughter
+女仆|Maid
+眼镜|Glasses
+流氓/黑社会|Crime/Gangster
+婊男/花花公子|Slutty man/Playboy
+不良受|Mischievous Bottom
+病娇|Yandere
+幽灵|Ghost
+妖怪|Youkai
+紧身皮衣|Rubber
+紧身衣|Leotard
+摔角手/格斗家|Wrestler/Fighter
+机器人|Robot/Android
+萝莉|Loli

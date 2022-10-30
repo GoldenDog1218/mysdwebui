@@ -1,0 +1,100 @@
+{
+  "defaultPreset": {
+    "name": "Default",
+    "prompt": "",
+    "negative": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,",
+    "step": 28,
+    "method": "Euler a",
+    "width": 512,
+    "height": 768,
+    "scale": 12
+  },
+  "presetList": [
+    {
+      "name": "清除",
+      "prompt": "",
+      "negative": ""
+    },
+    {
+      "name": "[naifu-竖屏]",
+      "prompt": "masterpiece,best quality,",
+      "negative": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,",
+      "step": 28,
+      "method": "Euler a",
+      "width": 512,
+      "height": 768,
+      "scale": 12
+    },
+    {
+      "name": "[naifu-正方]",
+      "prompt": "masterpiece,best quality,",
+      "negative": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,",
+      "step": 28,
+      "method": "Euler a",
+      "width": 512,
+      "height": 512,
+      "scale": 12
+    },
+    {
+      "name": "[naifu-宽屏]",
+      "prompt": "masterpiece,best quality,",
+      "negative": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,",
+      "step": 28,
+      "method": "Euler a",
+      "width": 512,
+      "height": 512,
+      "scale": 12
+    },
+    {
+      "name": "版本更新"
+    },
+    {
+      "name": "国潮1(Twnonegt)",
+      "prompt": "(((masterpiece,best quality))),(1girl:1.1),(female knight),(extremely detailed CG unity 8k wallpaper:1.3),(an extremely delicate and beautiful girl:1.2),(best lighting),(dynamic angle),best illustration,(blood on the ground:1.2),((castle background,finely deatil,extremely detailed background)),(white poncho skirt,gold ribbon),(sword with [blood]),extremely detailed and beautiful eyes,medium shot,((flying petals)),(((floating hair,long hair,white hair))),(gold eyes),sunshine,(depth of field:1.3),((birds)) in the sky full of details,(chinese painting:1.3),(watercolor medium:1.3)",
+      "negative": "nsfw,((( lowres, bad anatomy, bad hands, text, error, missing fingers))), extra digit, fewer digits, cropped, ((worst quality, low quality, normal quality, jpeg artifacts)), signature, watermark, username,(blurry:1.2),(impasto,realistic,malformed face,malformed hand,malformed foot:1.1),((mix)),ugly,duplicate,morbid,mutilated,tranny,trans,trannsexual,mutation,deformed,((long neck,bad anatomy,bad proportions)),extra arms,extra legs, disfigured,more than 2 nipples,malformed,mutated,hermaphrodite,out of frame,(extra limbs)",
+      "width": 768,
+      "height": 512,
+      "step": 60,
+      "scale": 7.5
+    },
+    {
+      "name": "烟雨飘飘(Twnonegt)",
+      "prompt": "(1girl:1.2),(extremely detailed CG unity 8k wallpaper:1.3),((masterpiece,best quality)),ultra-detailed,(long hair,black hair:1.4),((depth of field)),(best illustration:1.2),(((best lighting))),best shadow,red eyes,(extremely delicate and beautiful eyes:1.2),beautiful face,(((beautiful detailed sky,night))),emotionless,tears in the corners of the eyes,(forest:1.2),glowing eyes,classic,extremely detailed background,finely detail,an extremely delicate and beautiful girl,(white|black lace dress),delicate cloud,dynamic angle,(extremely detailed background:1.3),(original:1.1),((hazy fog)),flash particle,(rain:1.1),(perfect face:1.2),careful background,(((stone path,fence,detailed ground)))",
+      "negative": "nsfw, ((lowres, bad anatomy)), bad hands,((text, error, missing fingers)), extra digit, fewer digits, cropped, (((worst quality, low quality, normal quality, jpeg artifacts))), signature, watermark, username, (blurry:1.4),((2girls)),malformed face,(((malformed eyes,malformed body))),realistic,oilpainting,long neck,multiple breasts,cloned face,gross proportions, mutated hands,bad hands,bad feet,long neck,missing limb,malformed limbs,malformed hands,fused fingers,too many fingers,extra fingers,missing fingers,extra digit,fewer digits,mutated hands and fingers,lowres,text,error,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,text font ui,futa,yaoi,deformed legs,more than 2 knee",
+      "width": 768,
+      "height": 512,
+      "step": 36,
+      "scale": 5.5
+    },
+    {
+      "name": "机娘",
+      "prompt": "((master piece)),best quality, illustration, 1girl, small breast, beautiful detailed eyes, beautiful detailed cyberpunk city, flat_ chest, beautiful detailed hair, wavy hair, beautiful detailed street, mecha clothes, robot girl, cool movement, sliver bodysuit, (filigree), dragon wings, colorful background, a dragon stands behind the girl, rainy days, (lightning effect), beautiful detailed sliver dragon arnour, (cold face)",
+      "step": 20,
+      "scale": 7
+    },
+    {
+      "name": "神秘黑白机械风",
+      "prompt": "(best quality), ((masterpiece)), (highres), original,cacred,holy,mysterious,coat,extremely detailed wallpaper, 1girl, monochrome, (an extremely delicate and beautiful), mecha, gears",
+      "step": 70,
+      "width": 1024,
+      "height": 640,
+      "scale": 14
+    },
+    {
+      "name": "钢铁巨兽",
+      "prompt": "(best quality), ((masterpiece)), (highres), blasphemy, mysterious, sacred, holy, divine, antichrist, illustration, ((MechanicalMonsteri)), (extremely detailed cg), non-humanoid, ((Remus GoD machine-Fenrir)), masterpiece, powerful, extremely detailed CG unity 8k wallpaper, art oflight, artist style, hyper machine, Transformation by mechanization, Mechanicalweapon",
+      "step": 70,
+      "width": 1024,
+      "height": 640,
+      "scale": 14
+    },
+    {
+      "name": "菠萝盖饭",
+      "prompt": "Extremely detailed CG unity 8k wallpaper,150g rice, 200g curry roux, 300g beef, 2 onions,1 pineapple, 20g butter, 1 tablespoongrated garlic,a pinch of salt and pepper, 1 bay leaf, 1 tablespoon honey"
+    },
+    {
+      "name": "番茄蛋面",
+      "prompt": "Extremely detailed CG unity 8k wallpaper, some noodles, 200g curry roux, 300g beef, 2 tomatoes, a slice of fried egg, 20g butter, a pinch of salt and pepper, 1 bay leaf"
+    }
+  ]
+}

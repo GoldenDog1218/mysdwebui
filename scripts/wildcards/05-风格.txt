@@ -1,0 +1,100 @@
+杰作风|masterpiece,
+最好的质量|best quailty,
+Q版|chibi drawing stytle
+加强权重| {}
+幻想|fantasy,
+草稿风|sketch face,
+阴影|shadows,
+草稿风|sketch,
+无码|Reverso Context,
+水彩风|Watercolor,
+黑白风|black and white painting,
+Q版|chibi drawing style,
+色铅笔风|colored pencils style,
+单一|solo,
+原神|genshin impact,
+碧蓝航线|azur lane,
+我的英雄学院|boku no hero academia,
+崩坏3| third eye,
+东方Project| touhou,
+舰娘|kantai collection,
+Fate|fate (series),
+偶像大师|idolmaster,
+宝可梦|pokemon,
+vocaloid|vocaloid,
+hololive|hololive,
+明日方舟|arknights,
+魔法少女小圆|mahou shoujo madoka magica,
+圣火降魔录|fire emblem,
+少女与战车|girls und panzer,
+love live!|love live!,
+最终幻想|final fantasy,
+少女前线|girls' frontline,
+光之美少女|precure,
+死神|bleach,
+库洛洛魔法使|kinomoto sakura,
+莉可丽丝| lycoris recoil,
+紫罗兰永恒花园|violet evergarden (series)
+夏娜|shana
+蔚蓝档案|blue archive
+科幻|Scifi
+色诱|Coquettish/Seduction
+异世界转生|Isekai Reincarnation
+外遇|Cheating/Adultery
+超自然现象|Occult
+户外|Outdoor
+姊姊正太|Oneshota
+办公室/职场|Office/Workplace
+ABO|Omegaverse
+失禁|Peeing Oneself
+格斗|Fighting/Martial Arts
+学校/校园|School/Academy
+搞笑|Gag/Joke
+逆后宫|Reverse Harem
+女性格斗|Cat Fight
+情侣|Lovers
+喜剧|Comedy
+悬疑|Suspense
+时间停止|Time Stopping
+纯爱|Pure Love
+少女漫画|Shojo Manga
+少年漫画|Shonen Manga
+女性漫画|Josei Manga
+严肃|Serious
+运动|Sports
+性转换（TS）|Sex Change
+青年漫画|Seinen Manga
+石化|Petrifaction
+战场|War/Battlefield
+轻度H|Softcore Eroticism
+颓废/背德|Decadent/Immoral
+男生怀孕/生产|Male pregnancy/Childbirth
+耽美|Ephebophilia/Shonenai
+Teens Love|Teens Love
+电车|Train
+同居|Living Together
+同居|Cohabitation
+动物/宠物|Animal/Pet
+年龄差异|Age Disparity
+日常/生活|Slice of Life/Daily Living
+女体化|Feminization
+真实体验/非虚构|Nonfiction/Real Story
+后宫|Harem
+暴力|Violence
+初体验|First experience
+附身|Possession
+幻想|Fantasy
+风俗店/泡泡浴|Sex Industry/Soapland
+温馨|Heartwarming
+恐怖|Horror
+魔法|Magic
+丸呑|Vore
+推理|Mystery
+掏耳朵|Ear Cleaning
+军武|Military
+爱情喜剧|Romantic Comedy
+纯爱/甜蜜|Lovey Dovey/Sweet Love
+料理/美食|Cuisine/Gourmet
+历史/古装题材|Epic/Historical
+女士漫画|Women's comics
+罗曼蒂克|Romance

@@ -1,0 +1,29 @@
+城堡|Castle,
+教堂|church,
+公会|guild
+酒馆|Tavern,
+旅馆|hostel
+悬崖|cliff,
+海滩|beach,
+海|sea,
+河边|riverside,
+河|river,
+露天温泉|openair hot springs,
+中世纪村庄|
+酒吧|pub,
+豪华室内大厅|magnificent indoor hall,
+吊灯豪华大厅|magnificent indoor hall with chandelier,
+训练场|training course,
+街景|street scenery,
+浴室|bathroom,
+中世酒馆|medieval Tavern,
+娼馆|brothel,
+学校/学园|School, / Academy,
+湖边|lakeside
+神社|Shrine
+星空|starry sky
+草原|grassland
+烟火|fireworks
+校园厕所|campus toilet
+没有人、纯景|no humans,
+城市(通常是远景)|city
