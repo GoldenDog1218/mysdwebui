@@ -1,0 +1,30 @@
+
+仅适用于10日18日以后的Webui
+因为官方更新了本地化模块功能，所以汉化跟之前的方式不同了
+理论上10月18日以后的webui，出现BUG的话都不是汉化的问题。
+
+
+使用方法
+
+更新到最新版本的stable diffusion webui！！
+
+把解压的文件放到stable-diffusion-webui\localizations目录下
+
+打开stable diffusion webui
+
+进到设置Setting
+
+找到User interface，下面有一个Localization (requires restart)
+
+把选项切换到Chinese-English
+
+然后划到最上面，点几下Apply setting
+
+再划到最下面，点击
+
+Restart Gradio and Refresh components (Custom Scripts, ui.py, js and css only)
+
+这时候界面会重新加载，重新加载完了以后就汉化好了
+
+使用方法视频教程访问https://space.bilibili.com/22970812
+SD交流群：764844927
